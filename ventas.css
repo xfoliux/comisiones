@@ -115,3 +115,11 @@ span {
         max-width: 500px;
     }
 }
+.error {
+    color: #ef4444;
+    font-style: italic;
+    font-size: 0.8rem;
+    display: block;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}

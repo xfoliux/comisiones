@@ -1,0 +1,28 @@
+1 prompts
+actúa como un diseñador grafico experto.
+Necesito que hagas mi pagina responsive 
+(que se vea perfecta en celulares y tablets). 
+reglas importantes: solo HTML y CSS: no uses libreriras 
+externas (como bootstrap o tailwind). No toques 
+los IDs: no cambies ni borres ningun id de los componentes necesito mi codigo. 
+buen gusto como diseñador, asegurate de que los espacios y tamaños de letra 
+se vean bien en pantallas pequeñas.
+ este es mi codigo:
+
+prompts 2
+Quiero validar inputs en javaScripts.
+Reglas:
+- Mostrar mensaje debajo de cada input (no usar alert)
+- El mensaje debe ser en color rojo y en cursiva.
+Validaciones:
+- Solo numeros
+- Maximo 5 digitos
+- No puede estar Validaciones
+Condiciones tecnicas:
+- Usar los mismo IDs existentes: txtSueldoBase, txtVentas, txtPrecio
+- Usar eventos_
+onblur para valida cuando el usuario sale del input
+- No modificar IDs existentes
+- Mostrar errores en un elemento debajo del input
+Devuelveme solo las partes que debo agregar o modificar (HTML, CSS y JS) no todo el codigo.
+
